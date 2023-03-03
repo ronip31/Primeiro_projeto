@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AtividadeEmAula {
     public static void main(String[] args) {
-        System.out.println("Qual o valor?");
+        System.out.println("Informe o valor?");
         Scanner scanner = new Scanner(System.in);
         double valor = scanner.nextDouble();
 

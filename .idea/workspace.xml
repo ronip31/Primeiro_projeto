@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24d16597-dc1c-4e6a-b0e2-c15f59f67a7c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AtividadeEmAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AtividadeEmAula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MWVx0Et1eUVb5ScWQd6uD9Xpfl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
